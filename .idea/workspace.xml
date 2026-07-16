@@ -95,6 +95,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\2026Summer" />
+    </key>
+  </component>
   <component name="RunManager" selected="C/C++ 文件.2246A.cpp">
     <configuration name="2026Summer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2026Summer" TARGET_NAME="2026Summer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2026Summer" RUN_TARGET_NAME="2026Summer">
       <method v="2">
