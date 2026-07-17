@@ -27,7 +27,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc8b7efc-69d6-43a8-a498-e4bf4628ca90" name="更改" comment="update">
-      <change afterPath="$PROJECT_DIR$/cf-problemset/2246B.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matiji/BD202507.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matiji/BD202512.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matiji/BD202516.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matiji/BD202521.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matiji/MC501.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matiji/MC502.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matiji/MT2164.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,18 +48,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "nsyhfxc"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nsyhfxc&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/nsyhfxc/2026Summer.git",
-    "accountId": "6032976c-e51e-4470-8c25-af1f1fea53db"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nsyhfxc/2026Summer.git&quot;,
+    &quot;accountId&quot;: &quot;6032976c-e51e-4470-8c25-af1f1fea53db&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2025" />
@@ -67,9 +73,9 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectStatusUIService"><![CDATA[{
-  "uiKindId": "Widget"
-}]]></component>
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -78,6 +84,9 @@
   "keyToString": {
     "C/C++ 文件.2246A.cpp.executor": "Run",
     "C/C++ 文件.2246B.cpp.executor": "Run",
+    "C/C++ 文件.BD202512.cpp.executor": "Run",
+    "C/C++ 文件.BD202521.cpp.executor": "Run",
+    "C/C++ 文件.MT2164.cpp.executor": "Run",
     "CMake 应用程序.2026Summer.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
@@ -104,7 +113,7 @@
       <recent name="C:\Users\Lenovo\Desktop\2026Summer" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ 文件.2246B.cpp">
+  <component name="RunManager" selected="C/C++ 文件.MT2164.cpp">
     <configuration name="2026Summer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2026Summer" TARGET_NAME="2026Summer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2026Summer" RUN_TARGET_NAME="2026Summer">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -122,8 +131,29 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BD202512.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2026Summer" TARGET_NAME="BD202512.cpp" CONFIG_NAME="BD202512.cpp">
+      <option name="sourceFile" value="matiji\BD202512.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BD202521.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2026Summer" TARGET_NAME="BD202521.cpp" CONFIG_NAME="BD202521.cpp">
+      <option name="sourceFile" value="matiji\BD202521.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MT2164.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2026Summer" TARGET_NAME="MT2164.cpp" CONFIG_NAME="MT2164.cpp">
+      <option name="sourceFile" value="matiji\MT2164.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ 文件.MT2164.cpp" />
+        <item itemvalue="C/C++ 文件.BD202521.cpp" />
+        <item itemvalue="C/C++ 文件.BD202512.cpp" />
         <item itemvalue="C/C++ 文件.2246B.cpp" />
         <item itemvalue="C/C++ 文件.2246A.cpp" />
       </list>
@@ -137,7 +167,8 @@
       <option name="presentableId" value="Default" />
       <updated>1784193289071</updated>
       <workItem from="1784193290540" duration="32000" />
-      <workItem from="1784193340039" duration="3848000" />
+      <workItem from="1784193340039" duration="5140000" />
+      <workItem from="1784246760118" duration="4108000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -179,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784194216464</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <option name="closed" value="true" />
+      <created>1784197423317</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1784197423317</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
