@@ -3,11 +3,21 @@
 using namespace std;
 using i64 = long long;
 using u64 = unsigned long long;
+
 void solve() {
-    i64 a, b;
-    cin >> a >> b;
-    cout << a + b << endl;
+    int n;
+    string s;
+    cin >> n >> s;
+
+    for (int i = n / 2; i; i--) {
+        if (s.substr(0, i) == s.substr(i, i)) {
+            cout << n - i + 1 << endl;
+            return;
+        }
+    }
+    cout << n << endl;
 }
+
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);

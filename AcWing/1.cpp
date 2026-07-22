@@ -3,11 +3,13 @@
 using namespace std;
 using i64 = long long;
 using u64 = unsigned long long;
+
 void solve() {
     i64 a, b;
     cin >> a >> b;
     cout << a + b << endl;
 }
+
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
