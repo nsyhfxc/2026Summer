@@ -27,26 +27,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc8b7efc-69d6-43a8-a498-e4bf4628ca90" name="更改" comment="update">
-      <change afterPath="$PROJECT_DIR$/AcWing/1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AcWing/785.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AcWing/786.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AcWing/787.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AcWing/788.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AcWing/789.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AcWing/790.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matiji/MT2001.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matiji/MT2004.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matiji/MT2017.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matiji/MT2018.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matiji/MT2021.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matiji/MT2025.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matiji/MT2031.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matiji/MT2034.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matiji/MT2037.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matiji/MT2039.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matiji/MT2165.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AcWing/2816.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AcWing/796.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AcWing/797.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AcWing/798.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AcWing/799.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AcWing/800.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AcWing/801.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AcWing/802.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AcWing/803.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcWing/795.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AcWing/795.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +93,8 @@
     &quot;C/C++ 文件.788.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ 文件.789.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ 文件.790.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.795.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.797.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ 文件.BD202512.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ 文件.BD202521.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ 文件.MT2001.cpp.executor&quot;: &quot;Run&quot;,
@@ -140,7 +133,7 @@
       <recent name="C:\Users\Lenovo\Desktop\2026Summer" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ 文件.790.cpp">
+  <component name="RunManager" selected="C/C++ 文件.797.cpp">
     <configuration name="2026Summer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2026Summer" TARGET_NAME="2026Summer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2026Summer" RUN_TARGET_NAME="2026Summer">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -164,25 +157,25 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MT2034.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2026Summer" TARGET_NAME="MT2034.cpp" CONFIG_NAME="MT2034.cpp">
-      <option name="sourceFile" value="matiji\MT2034.cpp" />
+    <configuration name="795.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2026Summer" TARGET_NAME="795.cpp" CONFIG_NAME="795.cpp">
+      <option name="sourceFile" value="AcWing\795.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MT2039.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2026Summer" TARGET_NAME="MT2039.cpp" CONFIG_NAME="MT2039.cpp">
-      <option name="sourceFile" value="matiji\MT2039.cpp" />
+    <configuration name="797.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2026Summer" TARGET_NAME="797.cpp" CONFIG_NAME="797.cpp">
+      <option name="sourceFile" value="AcWing\797.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ 文件.797.cpp" />
+        <item itemvalue="C/C++ 文件.795.cpp" />
         <item itemvalue="C/C++ 文件.790.cpp" />
         <item itemvalue="C/C++ 文件.789.cpp" />
         <item itemvalue="C/C++ 文件.788.cpp" />
-        <item itemvalue="C/C++ 文件.MT2039.cpp" />
-        <item itemvalue="C/C++ 文件.MT2034.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +198,9 @@
       <workItem from="1784540948321" duration="100000" />
       <workItem from="1784595493958" duration="915000" />
       <workItem from="1784635266021" duration="3425000" />
-      <workItem from="1784681011102" duration="8000" />
+      <workItem from="1784681011102" duration="4123000" />
+      <workItem from="1784767259709" duration="2644000" />
+      <workItem from="1784851309285" duration="2911000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -263,7 +258,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784252651173</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <option name="closed" value="true" />
+      <created>1784681131528</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1784681131528</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

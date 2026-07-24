@@ -8,15 +8,22 @@ void solve() {
     int n, m;
     cin >> n >> m;
     vector<i64> arr(n + 1, 0);
-    vector<i64> sum(n + 1, 0);
+    vector<i64> diff(n + 2, 0);
     for (int i = 1; i <= n; i++) {
         cin >> arr[i];
-        sum[i] = sum[i - 1] + arr[i];
+        diff[i] = arr[i] - arr[i - 1];
     }
     for (int i = 1; i <= m; i++) {
-        int l, r;
-        cin >> l >> r;
-        cout << sum[r] - sum[l - 1] << endl;
+        i64 l, r, c;
+        cin >> l >> r >> c;
+        diff[l] += c;
+        diff[r + 1] -= c;
+    }
+    for (int i = 1; i <= n; i++) {
+        arr[i] = diff[i] + arr[i - 1];
+    }
+    for (int i = 1; i <= n; i++) {
+        cout << arr[i] << ' ';
     }
 }
 
@@ -28,4 +35,5 @@ int main() {
     while (t--) {
         solve();
     }
+    return 0;
 }
