@@ -5,6 +5,7 @@
   </component>
   <component name="BackendCodeEditorMiscSettings">
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
   </component>
   <component name="CMakePresetLoader">{
   &quot;useNewFormat&quot;: true
@@ -27,14 +28,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc8b7efc-69d6-43a8-a498-e4bf4628ca90" name="更改" comment="update">
-      <change afterPath="$PROJECT_DIR$/matiji/MT2062.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matiji/MT2069.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matiji/MT2078.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matiji/MT2080.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matiji/MT2097.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matiji/MT2114.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AcWing/110.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AcWing/42.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matiji/MT2053.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/matiji/MT2053.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,7 +212,9 @@
       <workItem from="1785922390698" duration="2742000" />
       <workItem from="1785974913902" duration="1331000" />
       <workItem from="1786006927801" duration="3073000" />
-      <workItem from="1786151317322" duration="2396000" />
+      <workItem from="1786151317322" duration="2834000" />
+      <workItem from="1786330577843" duration="4975000" />
+      <workItem from="1786433517148" duration="7428000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -297,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785917662487</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="update">
+      <option name="closed" value="true" />
+      <created>1786154557175</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1786154557175</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
